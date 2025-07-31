@@ -79,5 +79,5 @@
 ## 👩‍💻 currentlworking on 
 <p align="center">
 
-  <p>Doctor AI Agent Consultaion Website</p>
+  <p>Doctor AI Agent Consultation Website</p>
 </p>
