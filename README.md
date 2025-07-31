@@ -1,12 +1,6 @@
 <h1 align="center">✨ Ananya Singh ✨</h1>
 <h3 align="center">💻 Web Developer | 🔍 DSA & System Enthusiast |  Tech Explorer</h3>
 
-<p align="center">
-  <a href="https://github.com/Ananya790">
-    <img src="https://komarev.com/ghpvc/?username=Ananya790&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya790" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -82,7 +76,8 @@
 
 ---
 
+## 👩‍💻 currentlworking on 
 <p align="center">
-  🧠 *"Code is like humor — when you have to explain it, it’s bad."*  
-  <br>🌱 Keep Learning • Keep Building • Keep Growing 🌱
+
+  <p>Doctor AI Agent Consultaion Website</p>
 </p>
